@@ -12,5 +12,5 @@ it('Should get min squared absolute number', () => {
 
 it('Should get min squared absolute number', () => {
   const getSquaredNum = getMinSquaredNumber([-222, 4, 6, -12, 88]);
-  expect(getSquaredNum).toEqual([16]);
+  expect(getSquaredNum).toEqual(16);
 });
