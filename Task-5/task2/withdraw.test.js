@@ -7,7 +7,7 @@ it('should find index of client', () => {
     'Igor',
     10
   );
-  expect(personIndex).toEqual('Igor');
+  expect(personIndex).toEqual(70);
 });
 
 // it('should balance >= amount ', () => {
